@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>System Design Interview &mdash; Index</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <p class="header-eyebrow">// 62 files &middot; 4 groups</p>
+    <h1>System Design<span>.</span></h1>
+    <p class="header-sub">Interview Reference Index</p>
+  </header>
+
+  <div class="controls">
+    <div class="search-box">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+      </svg>
+      <input id="search" type="text" placeholder="Search files&hellip; (press /)" autocomplete="off" />
+    </div>
+    <div class="sort-btns">
+      <button class="sort-btn active" data-sort="id">Sort: ID</button>
+      <button class="sort-btn"        data-sort="name">Sort: Name</button>
+    </div>
+  </div>
+
+  <div class="group-tabs" id="tabs"></div>
+
+  <div class="stats-bar">
+    Showing <strong id="stats-count">0</strong> files
+  </div>
+
+  <div id="sections"></div>
+  <p id="empty">No files match your search.</p>
+
+  <footer>
+    <span>System Design Index</span>
+    <span id="footer-date"></span>
+  </footer>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
