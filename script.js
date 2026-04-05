@@ -185,6 +185,82 @@ const DATA = [
     ]
   },
   {
+    "slug": "object-oriented-design-interview",
+    "name": "Object Oriented Design Interview",
+    "items": [
+      {
+        "id": "01",
+        "name": "What Is An Object Oriented Design Interview",
+        "file": "object-oriented-design-interview-01-what-is-an-object-oriented-design-interview.html"
+      },
+      {
+        "id": "02",
+        "name": "A Framework For The Ood Interview",
+        "file": "object-oriented-design-interview-02-a-framework-for-the-ood-interview.html"
+      },
+      {
+        "id": "03",
+        "name": "Oop Fundamentals",
+        "file": "object-oriented-design-interview-03-oop-fundamentals.html"
+      },
+      {
+        "id": "04",
+        "name": "Design A Parking Lot",
+        "file": "object-oriented-design-interview-04-design-a-parking-lot.html"
+      },
+      {
+        "id": "05",
+        "name": "Movie Ticket Booking System",
+        "file": "object-oriented-design-interview-05-movie-ticket-booking-system.html"
+      },
+      {
+        "id": "06",
+        "name": "Design A Unix File Search",
+        "file": "object-oriented-design-interview-06-design-a-unix-file-search.html"
+      },
+      {
+        "id": "07",
+        "name": "Design A Vending Machine",
+        "file": "object-oriented-design-interview-07-design-a-vending-machine.html"
+      },
+      {
+        "id": "08",
+        "name": "Design An Elevator System",
+        "file": "object-oriented-design-interview-08-design-an-elevator-system.html"
+      },
+      {
+        "id": "09",
+        "name": "Grocery Store System",
+        "file": "object-oriented-design-interview-09-grocery-store-system.html"
+      },
+      {
+        "id": "10",
+        "name": "Design A Tic Tac Toe Game",
+        "file": "object-oriented-design-interview-10-design-a-tic-tac-toe-game.html"
+      },
+      {
+        "id": "11",
+        "name": "Design A Blackjack Game",
+        "file": "object-oriented-design-interview-11-design-a-blackjack-game.html"
+      },
+      {
+        "id": "12",
+        "name": "Design A Shipping Locker",
+        "file": "object-oriented-design-interview-12-design-a-shipping-locker.html"
+      },
+      {
+        "id": "13",
+        "name": "Design An Automated Teller Machine Atm",
+        "file": "object-oriented-design-interview-13-design-an-automated-teller-machine-atm.html"
+      },
+      {
+        "id": "14",
+        "name": "Design A Restaurant Management System",
+        "file": "object-oriented-design-interview-14-design-a-restaurant-management-system.html"
+      }
+    ]
+  },
+  {
     "slug": "system-design-interview",
     "name": "System Design Interview",
     "items": [
@@ -332,6 +408,97 @@ const DATA = [
         "id": "30",
         "name": "The Learning Continues",
         "file": "system-design-interview-30-the-learning-continues.html"
+      }
+    ]
+  },
+  {
+    "slug": "tech-resume",
+    "name": "Tech Resume",
+    "items": [
+      {
+        "id": "01",
+        "name": "P0 C2 Introduction",
+        "file": "tech-resume-01-p0-c2-introduction.html"
+      },
+      {
+        "id": "02",
+        "name": "P1 C0 Resumes And The Hiring Process",
+        "file": "tech-resume-02-p1-c0-resumes-and-the-hiring-process.html"
+      },
+      {
+        "id": "03",
+        "name": "P1 C1 Why Resumes And Cvs Are Important",
+        "file": "tech-resume-03-p1-c1-why-resumes-and-cvs-are-important.html"
+      },
+      {
+        "id": "04",
+        "name": "P1 C2 The Hiring Pipeline",
+        "file": "tech-resume-04-p1-c2-the-hiring-pipeline.html"
+      },
+      {
+        "id": "05",
+        "name": "P2 C0 Writing The Resume",
+        "file": "tech-resume-05-p2-c0-writing-the-resume.html"
+      },
+      {
+        "id": "06",
+        "name": "P2 C1 Tech Resume Basics",
+        "file": "tech-resume-06-p2-c1-tech-resume-basics.html"
+      },
+      {
+        "id": "07",
+        "name": "P2 C2 Resume Structure",
+        "file": "tech-resume-07-p2-c2-resume-structure.html"
+      },
+      {
+        "id": "08",
+        "name": "P2 C3 Standing Out",
+        "file": "tech-resume-08-p2-c3-standing-out.html"
+      },
+      {
+        "id": "09",
+        "name": "P2 C4 Common Mistakes",
+        "file": "tech-resume-09-p2-c4-common-mistakes.html"
+      },
+      {
+        "id": "10",
+        "name": "P2 C5 Different Experience Levels Different Career Paths",
+        "file": "tech-resume-10-p2-c5-different-experience-levels-different-career-paths.html"
+      },
+      {
+        "id": "11",
+        "name": "P2 C6 Exercises To Polish Your Resume",
+        "file": "tech-resume-11-p2-c6-exercises-to-polish-your-resume.html"
+      },
+      {
+        "id": "12",
+        "name": "P2 C7 Beyond The Resume",
+        "file": "tech-resume-12-p2-c7-beyond-the-resume.html"
+      },
+      {
+        "id": "13",
+        "name": "P3 C0 Examples And Inspiration",
+        "file": "tech-resume-13-p3-c0-examples-and-inspiration.html"
+      },
+      {
+        "id": "14",
+        "name": "P3 C1 Good Resume Template Principles",
+        "file": "tech-resume-14-p3-c1-good-resume-template-principles.html"
+      },
+      {
+        "id": "15",
+        "name": "P3 C2 Resume Templates",
+        "file": "tech-resume-15-p3-c2-resume-templates.html"
+      },
+      {
+        "id": "16",
+        "name": "P3 C3 Resume Improvement Examples",
+        "file": "tech-resume-16-p3-c3-resume-improvement-examples.html"
+      },
+      {
+        "id": "17",
+        "name": "P3 C4 Advice For Hiring Managers On Running A Good Screening Process",
+        "file": "tech-resume-17-p3-c4-advice-for-hiring-managers-on-running-a-good-screening-process.html"
       }
     ]
   }
